@@ -1,6 +1,6 @@
 # How to use
 
-Just download the realase version, right click on the bo3 versión you are going to play (Steam/Boiii) and select "Run with PoweShell".
+Just download the realase version ( **https://github.com/Luisete2105/Bo3-The-Giant-Script/releases/latest** ) extract it, right click on the bo3 versión you are going to play (Steam/Boiii) and select "Run with PoweShell".
 
 To stop the script just click any key while having the console open.
 
@@ -12,3 +12,7 @@ This script doesnt support:
 -Any map besides The Giant
 
 If I see there is a lot of people who wants coop version I may add it, I am not sure about adding support for other maps since The Giant is the simplest map and it was already a lot of work, so if I ever add another map, it wont be as detailed as The Giant.
+
+# Discord
+If there is a bug or an error with the code feel free to come tell me on discord 
+https://discord.gg/pKavjsHUpP
