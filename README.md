@@ -1,6 +1,6 @@
 # How to use
 
-Just download the realase version ( **https://github.com/Luisete2105/Bo3-The-Giant-Script/releases/latest** ) extract it, right click on the bo3 versión you are going to play (Steam/Boiii) and select "Run with PoweShell".
+Just download the realase version ( **https://github.com/Luisete2105/Bo3-The-Giant-Script/releases/latest** ) extract it, right click on the bo3 version you are going to play (Steam/Boiii) and select "Run with PoweShell".
 
 To stop the script just click any key while having the console open.
 
