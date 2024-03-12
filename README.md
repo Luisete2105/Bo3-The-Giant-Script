@@ -20,8 +20,8 @@ This script doesnt support:
 2. Coop.
 3. Any map besides The Giant.
 
-# IF YOU ARE ON WIN 11 AND IT DOESNT WORK TYPE ON SEARCHBAR:
-"Allow local PowerShell scripts to run without signing"
+# IF YOU ARE ON WIN 11 AND IT DOESNT WORK
+TYPE ON SEARCHBAR:"Allow local PowerShell scripts to run without signing"
 CHECK THE BOX AND CLICK APPLY BUTTON
 
 If I see there is a lot of people who wants coop version I may add it, I am not sure about adding support for other maps since The Giant is the simplest map and it was already a lot of work, so if I ever add another map, it wont be as detailed as The Giant.
