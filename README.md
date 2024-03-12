@@ -5,7 +5,7 @@ Just download the realase version ( **https://github.com/Luisete2105/Bo3-The-Gia
 1. Select a folder depending if you want attachments or not on your starter pistol, if so, go MR6 folder.
 2. Select your client,steam or boiii, right click on the "client"+_inject.ps1 and hit "Run with PowerShell".
 3. To apply changes do a map_restart if you are mid game.
-4. Press any key on the console to stop injecting and do a map restart if you are mid game to aply changes.
+4. Press any key on the console to stop injecting and do a map restart if you are mid game to apply changes.
 
 I suggest not moving on your very first attempt, the buttons layout will disappear as soon as you move after the first couple seconds of the current game, they are only shown at your first attempt or when you switch modes.
 
